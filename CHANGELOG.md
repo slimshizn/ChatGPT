@@ -3,6 +3,10 @@
 # ChatGPT Changelog
 
 ## [Unreleased]
+## [1.0.6-203.222]
+### Changed
++ Dealing with API compatibility issues（处理API兼容问题）
+
 ## [1.0.5]
 ### Changed
 + Fix the problem that the context is not associated（修复上下文不关联的问题）
